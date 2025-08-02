@@ -1,6 +1,7 @@
+import Hero from "./Hero"
 function Product(){
     return (<div>
-        <h1>Product</h1>
+        <Hero></Hero>
     </div>)
 }
 export default Product
